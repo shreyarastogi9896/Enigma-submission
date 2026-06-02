@@ -17,3 +17,13 @@ This repository contains my solution for the Enigma26 competition. The approach 
 ## Key Takeaway
 
 Careful feature engineering combined with gradient boosting ensembles proved highly effective for capturing complex relationships in the dataset and improving prediction accuracy.
+
+## Dataset
+
+The dataset used in this project was provided as part of the Enigma26 Kaggle Competition.
+
+Dataset and competition details can be found here:
+
+https://www.kaggle.com/competitions/enigma26
+
+
